@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Simone!
+## Hi there 👋, I'm Simone!
 
 #### - I'm focusing on Data Engineering and I'm looking for a job in the field;
 #### - I'm finishing the Master's Degree in Data Science & Economics at the University of Milan;
